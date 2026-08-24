@@ -11,8 +11,9 @@ This isn't a generic QA template. It's the actual checklists, test cases, and pr
 | [`ab-testing-checklist.md`](./ab-testing-checklist.md) | Full QA checklist for validating A/B tests before and during launch |
 | [`shopify-qa-playbook.md`](./shopify-qa-playbook.md) | Testing guide covering theme, cart, checkout, discounts, and app integrations |
 | [`react-site-qa-notes.md`](./react-site-qa-notes.md) | QA considerations specific to React-based storefronts |
-| [`test-cases/`](./test-cases) | Structured test case suites for checkout, A/B experiments, and cart flows |
-| [`templates/bug-report-template.md`](./templates/bug-report-template.md) | Bug report format with severity/priority matrix |
+| [`ab-experiment-test-cases.md/`](./ab-experiment-test-cases.md) | Structured test case suites for A/B experiments, and cart flows |
+| [`checkout-flow-test-cases.md/`](./checkout-flow-test-cases.md) | Structured test case suites for checkout, A/B experiments, and cart flows |
+| [`bug-report-template.md`](./bug-report-template.md) | Bug report format with severity/priority matrix |
 | [`case-study.md`](./case-study.md) | Walkthrough of how I QA'd a real A/B test on a high-traffic Shopify store |
 
 ## 🎯 Why this exists
